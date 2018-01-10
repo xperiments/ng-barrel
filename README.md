@@ -4,7 +4,7 @@ Simple typescript barrel index file generator for the tree view.
 
 ## Usage
 
-This utility add 2 context menu in the file navigation pane.
+This utility add 2 context menu in the file navigation pane. To add a new barrel file (`index.ts`) or update an existing, select the directory in the tree view and perform the command `Ng Barrel: BarrelTypescript` or `Ng Barrel: BarrelAll` (via Command Palette).
 
 ### Barrel Typescript
 
